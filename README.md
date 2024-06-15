@@ -19,7 +19,7 @@
 - Now you can run the application with the following command: node index.js
 
 ## Usage
-[Walkthrough Video](https://drive.google.com/file/d/1v72oz8A1O0XfFtnCDvct_Lzg-uzQtTRP/view/)
+[Walkthrough Video](https://drive.google.com/file/d/1v72oz8A1O0XfFtnCDvct_Lzg-uzQtTRP/view?usp=sharing)
 
 ## Credits
 N/A
